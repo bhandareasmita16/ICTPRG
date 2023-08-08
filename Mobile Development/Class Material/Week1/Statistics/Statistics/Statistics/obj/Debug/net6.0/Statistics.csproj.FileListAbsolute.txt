@@ -1,0 +1,30 @@
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.exe
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.deps.json
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.runtimeconfig.json
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.dll
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\bin\Debug\net6.0\Statistics.pdb
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.csproj.AssemblyReference.cache
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfoInputs.cache
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfo.cs
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.dll
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\refint\Statistics.dll
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.pdb
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\Statistics.genruntimeconfig.cache
+C:\Users\BHANDA.TDM\source\repos\Statistics\Statistics\obj\Debug\net6.0\ref\Statistics.dll
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\bin\Debug\net6.0\Statistics.exe
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\bin\Debug\net6.0\Statistics.deps.json
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\bin\Debug\net6.0\Statistics.runtimeconfig.json
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\bin\Debug\net6.0\Statistics.dll
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\bin\Debug\net6.0\Statistics.pdb
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.AssemblyInfo.cs
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.dll
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\refint\Statistics.dll
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.pdb
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\Statistics.genruntimeconfig.cache
+C:\Users\pc\OneDrive - TAFE\Mobile Development\Statistics\Statistics\Statistics\obj\Debug\net6.0\ref\Statistics.dll

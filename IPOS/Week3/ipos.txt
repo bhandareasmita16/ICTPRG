@@ -1,0 +1,40 @@
+
+1. What is a module in Python? How do you create one?
+In Python, module is just a python file which has variables, functions and classes as other python file.
+Modules are helpful in breaking down the large code into smaller, where it's easy to maintain and also assists in collaboration with other developers.
+
+To create a module, we can make a new python file in directory. The name given to that file will be name of the module.
+
+
+
+2. What is the purpose of the import statement in Python? Can you provide a code example of its usage?
+The import statement allows to use the functions in the other module into the current script.
+
+3. How can you import only a specific function or class from a module in Python? What is the syntax for this?
+
+
+4. How would you explain Python's parameter-passing mechanism? Is it more similar to pass-by-value or pass-by-reference?
+Yes, that's a good answer, and you've explained it accurately!
+
+In Python, parameter passing is indeed done through a combination of "pass-by-value" and "pass-by-object-reference" concepts, which you've described perfectly:
+
+In Python parameter passing is done in two ways- 
+1. pass-by-value: Here copy of actual value is passed to the function, so if that value gets changed it will not change that object value outside of that function.   
+2. pass-by-reference: Here reference to that object is passed to the function so any change in that object value in that function will also change that value outside the function(only if it is mutable).
+
+5. Given the following Python code, what will be the output and why?
+def modify_list(lst):
+    lst.append("new")
+    lst = ["completely", "new"]
+
+items = ["original"]
+modify_list(items)
+print(items)
+
+
+Here, output will be ["completely", "new"]
+Lists are mutable so they allow the change inside the function but list 'lst' in the function is different than the list 'items' outside the function because they have different references.
+
+6. If Python uses pass-by-reference, why does not reassigning a variable inside a function change the original variable outside the function? How is this related to the mutability of Python objects?
+Python uses pass-by-reference, so any change in the object value in the function will affect that value outside that function but reassigning the original variable inside the function will create a new reference to that object inside the function. That means reference of the original object and the reference of new reassigned variable are different which will not affect the original variable even though we change the new variable.
+In pass-by-reference, mutable objects can be modified inside the function as it is referencing to the same object in the memory and this change will persists outside the function. 

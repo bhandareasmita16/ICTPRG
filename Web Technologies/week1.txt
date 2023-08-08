@@ -1,0 +1,22 @@
+
+Book:https://flaviocopes.com/book/js/
+https://youtu.be/LpCFF2hzPzs
+
+###Challenge 1
+
+PAN = Personal Area Network
+LAN = Local Area Network
+WAN = Wide Area Network
+Intranet = 
+Extranet =
+
+###Challenge 2
+HTTP request methods:
+1. GET - to request data from specified resource
+2. POST - to send data to a server
+3. PUT - to send data to a server (idempotent)
+4. HEAD - identical to GET but without response body
+5. DELETE - delete the resources
+6. PATCH - to apply partial modifications to a resource
+7. OPTIONS - communication options for the target resource
+8. https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
