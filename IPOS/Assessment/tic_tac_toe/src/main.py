@@ -1,5 +1,5 @@
-from m1 import Make_A_Board
-from m2 import Test
+from board import Make_A_Board
+from test import Test
 
 def game_loop():
 
