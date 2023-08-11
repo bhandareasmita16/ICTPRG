@@ -1,15 +1,12 @@
 
 
-class Make_A_Board:
-    def __init__(self):
-        self.grid = None
+class Board:
+    def __init__(self, rows, cols, value = '?'):
 
-
-    def board_grid(self, rows, cols, value = '?'):
         self.grid = [[value for _ in range(cols)] for _ in range(rows)]
-        return self.grid
 
-    def board_display(self):
+
+    def display_board(self):
 
         for row in self.grid:
             for elem in row:
